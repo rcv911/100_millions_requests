@@ -1,0 +1,4 @@
+queue_size=100
+qty_simultaneous_connection=100
+qty_request=100_000_000
+url='https://yandex.ru'
